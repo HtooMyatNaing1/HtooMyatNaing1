@@ -17,5 +17,5 @@
 
 ### 🚀 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtooMyatNaing1&layout=compact&theme=radical&langs_count=8&exclude_repo=UnityProjects,SomeBigRepo&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtooMyatNaing1&layout=compact&theme=radical&langs_count=14&exclude_repo=UnityProjects,SomeBigRepo&cache_seconds=86400" alt="Top Languages" />
 </p>
