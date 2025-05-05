@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Htoo Myat!
-🎓 Computer Engineering Student | 🤖 Embedded System Enthusiast  
+🎓 Computer Engineering Student at KMUTT | 🤖 Embedded System Enthusiast  
 
 ### 🚀 About Me  
 - 🌱 Learning: Python, C/C++, Embedded Systems, and Full Stack Software Development  
